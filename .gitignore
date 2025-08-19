@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+debug.log
+error.log
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Build / output folders
+dist/
+build/
+
+# VSCode / IDE configs
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Oracle Wallet (si usas Autonomous Database)
+wallet_*/ 
+*.zip
