@@ -2,8 +2,10 @@
 
 Este instructivo muestra cómo integrar una base de datos Oracle en un proyecto de automatización con Selenium WebDriver en Node.js, utilizando Mocha y Chai como framework de pruebas.
 
+---
 📂 Estructura del proyecto
 selenium-oracle-demo/
+```
 │── database/
 │   └── db.js                # Módulo de conexión y consultas a Oracle DB
 │── test/
@@ -13,7 +15,8 @@ selenium-oracle-demo/
 │── .env                     # Variables de entorno (usuario, contraseña, string de conexión)
 │── package.json
 │── README.md
-
+```
+---
 🔧 Herramientas utilizadas
 
 Node.js
