@@ -232,7 +232,3 @@ DevTools listening on ws://127.0.0.1:xxxxx/devtools/browser/...
 - Para **Oracle Autonomous Database (ADB)**, usa el **Wallet** y configura `TNS_ADMIN` en `.env`.  
 
 ---
-
-✍️ Autor: *Tu Nombre*
-
-Para Oracle Autonomous Database (ADB), deberás usar el Wallet y configurar TNS_ADMIN en .env.
